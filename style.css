@@ -1,0 +1,28 @@
+ *{
+    margin:0;
+    padding:0;
+    border:100px ;
+    background-color: rgb(18, 20, 21);
+    
+}
+img{
+    border-radius: 300px;
+    border-top-left-radius: 300px;
+    border-bottom-right-radius:300px ;
+  
+    
+    
+}
+.pic{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.one{
+    color:rgb(198, 127, 20);
+    text-align: center;
+    margin-top: 70px;
+    padding: 10px;
+}
+
+
